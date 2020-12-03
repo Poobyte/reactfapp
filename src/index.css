@@ -1,0 +1,35 @@
+div{
+
+  text-align: center;
+}
+
+nav{
+
+  background-color: black;
+    height:50px;
+    padding:60px;
+}
+
+h1{
+color: blanchedalmond;
+height: 60px;
+
+}
+
+img {
+ height: 300px;
+ width: 300px;
+  border-radius: 10px;
+ margin-top: 20px;
+}
+
+p{
+  font-weight: bold;
+}
+
+small{
+  color: blanchedalmond;
+   font-size: 100mm;
+  height:50px;
+  width: 30px;
+}
